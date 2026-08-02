@@ -1,5 +1,14 @@
-# Git Practice Project
+# Git Practice: Python Calculator
 
 **Author:** Nurullah Mia
 
-This project demonstrates a basic Python program and practical Git/GitHub workflow.
+## About
+
+This project demonstrates a basic Python calculator and a practical Git/GitHub
+workflow using commits, branches, and merges.
+
+## Run the program
+
+```bash
+python src/main.py
+```
